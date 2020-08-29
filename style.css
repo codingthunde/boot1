@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+.sd{
+    width: 70%;
+    height: 83%;
+    margin: -7px 241px;
+}
+.poho{
+    margin-left: -127px;
+}
+.wr{
+    margin-left: 100px;
+}
+.we{
+    margin-left: 100px;
+
+}
